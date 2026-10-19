@@ -76,7 +76,7 @@ A responsive Korean grocery e-commerce website prototype featuring Korean food, 
 ## Connect
 
 - **GitHub:** [HarshitaDoddagoudar](https://github.com/HarshitaDoddagoudar)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [HarshitaDoddagoudar](www.linkedin.com/in/harshita-doddagoudar-b342a3332)
 
 ---
 
