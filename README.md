@@ -9,16 +9,16 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 - 🎓 Third-year CSE undergraduate
 - 💻 Interested in full-stack development, SDE, and frontend engineering
 - 🌱 Learning through hands-on projects and experimentation
-- 🤝 Open to collaborating on projects and hackathons
 - Check out my resume here - [My Resume](./Harshita_Doddagoudar_Resume.pdf)
+- 🤝 Open to collaborating on projects and hackathons
 
-## Tech Stack
+## Technical Skills
 
-- **Languages:** Java, Python, JavaScript
-- **Frontend:** HTML, CSS, React
-- **Styling:** Tailwind CSS
-- **Database:** SQL, DBMS
-- **Tools:** Git, GitHub, VS Code
+- **Programming Languages:** Java, Python, JavaScript, Kotlin
+- **Web Development:** HTML, CSS, React, Svelte
+- **Mobile Development:** Flutter, Jetpack Compose
+- **Database:** SQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Android Studio
 
 ## Projects
 
