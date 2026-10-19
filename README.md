@@ -22,6 +22,26 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 
 ## Projects
 
+## Nnotes — Handwritten Notes & PDF Annotation Suite
+
+**Kotlin · Jetpack Compose · Material 3 · Android**
+
+Co-created an Android productivity application designed for handwritten note-taking, PDF annotation, and study management.
+
+- **Advanced handwriting:** Multiple pen styles, highlighters, precision erasers, shape recognition, and stylus support.
+- **PDF tools:** Import, annotate, and export PDFs, with side-by-side document viewing.
+- **Study productivity:** Pomodoro timer, study streak tracking, customizable paper templates, and flexible toolbar positioning.
+- **Privacy-focused:** Local-first, offline-capable note-taking without requiring an account.
+
+### Project Links
+
+- [Download on Google Play](https://play.google.com/store/apps/details?id=com.nnote.Drn)
+- [Explore the Nnotes Repository](https://github.com/HarshitaDoddagoudar/Nnotes/tree/main)
+- [Harshita Doddagoudar — GitHub](https://github.com/HarshitaDoddagoudar)
+- [Dr.N (DrNitz) — GitHub](https://github.com/DrNitz)
+
+**Collaborators:** [Harshita Doddagoudar](https://github.com/HarshitaDoddagoudar) · [Dr.N](https://github.com/DrNitz)
+
 ### [P2P Companion](https://github.com/HarshitaDoddagoudar/P2P-Companion-main)
 
 A peer-to-peer cryptocurrency comparison project that explores price differences for crypto coins across multiple exchanges, helping users compare available market prices.
