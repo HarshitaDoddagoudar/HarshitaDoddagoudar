@@ -10,6 +10,7 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 - 💻 Interested in full-stack development, SDE, and frontend engineering
 - 🌱 Learning through hands-on projects and experimentation
 - 🤝 Open to collaborating on projects and hackathons
+- Check out my resume here - My Resume
 
 ## Tech Stack
 
