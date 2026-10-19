@@ -10,7 +10,7 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 - 💻 Interested in full-stack development, SDE, and frontend engineering
 - 🌱 Learning through hands-on projects and experimentation
 - 🤝 Open to collaborating on projects and hackathons
-- Check out my resume here - My Resume
+- - Check out my resume here - [My Resume](./Harshita_Doddagoudar_Resume.pdf)
 
 ## Tech Stack
 
