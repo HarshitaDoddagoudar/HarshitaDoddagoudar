@@ -22,7 +22,7 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 
 ## Projects
 
-## Nnotes — Handwritten Notes & PDF Annotation Suite
+## [Nnotes — Handwritten Notes & PDF Annotation Suite](https://github.com/HarshitaDoddagoudar/Nnotes/tree/main)
 
 **Kotlin · Jetpack Compose · Material 3 · Android**
 
@@ -36,7 +36,6 @@ Co-created an Android productivity application designed for handwritten note-tak
 ### Project Links
 
 - [Download on Google Play](https://play.google.com/store/apps/details?id=com.nnote.Drn)
-- [Explore the Nnotes Repository](https://github.com/HarshitaDoddagoudar/Nnotes/tree/main)
 - [Harshita Doddagoudar — GitHub](https://github.com/HarshitaDoddagoudar)
 - [Dr.N (DrNitz) — GitHub](https://github.com/DrNitz)
 
