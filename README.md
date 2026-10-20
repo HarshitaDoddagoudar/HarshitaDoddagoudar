@@ -9,7 +9,7 @@ I enjoy building practical projects, exploring new technologies, and learning ho
 - 🎓 Third-year CSE undergraduate
 - 💻 Interested in full-stack development, SDE, and frontend engineering
 - 🌱 Learning through hands-on projects and experimentation
-- Check out my resume here - [My Resume](./Harshita_Doddagoudar_Resume(1).pdf)
+- Check out my resume here - [My Resume](./Harshita_Doddagoudar_Resume%20%281%29.pdf)
 - 🤝 Open to collaborating on projects and hackathons
 
 ## Technical Skills
